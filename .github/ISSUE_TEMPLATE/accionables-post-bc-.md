@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-# Recomendaciones de COACH // Accionables 
+**Recomendaciones de COACH // Accionables**
 -[] Trabajar en mejorar la planeación del Diseño de app, pensando en ususarios y principios de diseño visual
 -[ ] Mejorar el uso de HTML (flexbox y grid Layout)
 -[ ] Estudiar sobre selectores de DOM, y practicarlo 
@@ -17,7 +17,7 @@ assignees: ''
 -[ ] Investigar sobre Firebase auth y Firestore
 -[ ] Mantener siempre buena comunicacion para no quedarme con bloqueos por mucho tiempo
 
-#Accionables  Particulares 
+**Accionables  Particulares** 
 -[ ] Releer Readme para organizar y planear mejor deacuerdo a los OA  
 -[ ] Comprometerme a trabajar en el codigo y estudiar min 4 horas al día
 -[ ] Continuar estudiar fundmentos de programación 
