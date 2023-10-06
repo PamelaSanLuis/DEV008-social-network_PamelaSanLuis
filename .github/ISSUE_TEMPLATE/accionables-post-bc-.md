@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 # Recomendaciones de COACH // Accionables 
--[ ]  Trabajar en mejorar la planeación del Diseño de app, pensando en ususarios y principios de diseño visual
+-[] Trabajar en mejorar la planeación del Diseño de app, pensando en ususarios y principios de diseño visual
 -[ ] Mejorar el uso de HTML (flexbox y grid Layout)
 -[ ] Estudiar sobre selectores de DOM, y practicarlo 
 -[ ] Estudiar sobre : uso de condicionales, bucles , funciones(parametros y argumentos)
